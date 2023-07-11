@@ -2,7 +2,7 @@
 
 Vandermeer is the last name of the detective in《Rusty Lake》 games.
 
-<!-- [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBorisVandermeer&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBorisVandermeer&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## Interest 😮
 
@@ -13,6 +13,7 @@ Interested in everything about autonomous vehicles, currently working on some pl
 I mostly coding with cpp, python&matlab are also fine for me. Programming languages are much simpler than algorithms after all.
 
 ![BorsiVandermeer's Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BorisVandermeer&layout=compact&theme=dracula&card_width=445)
+
 <p align="left" >
     <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp 
     <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a>&nbsp 
@@ -29,4 +30,4 @@ I mostly coding with cpp, python&matlab are also fine for me. Programming langua
 
 ## More about me 🙂
 
-![BorisVandermeer's github stats](https://github-readme-stats.vercel.app/api?username=BorisVandermeer&count_private=true&show_icons=true&theme=dracula)
+![BorisVandermeer's github stats](https://github-readme-stats.vercel.app/api?username=BorisVandermeer&count_private=true&show_icons=true&theme=dracula)       
